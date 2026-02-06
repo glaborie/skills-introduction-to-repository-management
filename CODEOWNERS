@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @glaborie
+/src/backend/database.py      @glaborie
+/src/backend/routers/auth.py  @glaborie
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @glaborie
